@@ -51,23 +51,24 @@
       <td>✔️</td>
     </tr>
 <tr>
-      <td>02</td>
-      <td>Quantum Machine Learning-based Detection of Fake News and Deep Fake Videos</td>
-      <td>
-        <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat-square" alt="NLP">
-        <img src="https://img.shields.io/badge/Deep%20Learning-Attention-red?style=flat-square" alt="Deep Learning">
-      </td>
-      <td>
-        <a href="https://cmte.ieee.org/futuredirections/tech-policy-ethics/july-2022/quantum-machine-learning-based-detection-of-fake-news-and-deep-fake-videos/" target="_blank">
-          <img src="https://img.shields.io/badge/MDPI-Publication-blue?style=flat-square" alt="MDPI">
-        </a>
-    </td>
-      <td>
-        <a href="https://hub.docker.com/your-docker-link" target="_blank">
-          </a>
-      </td>
-      <td>✔️</td>
-    </tr>
+  <td>02</td>
+  <td>Quantum Machine Learning-based Detection of Fake News and Deep Fake Videos</td>
+  <td>
+    <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat-square" alt="NLP">
+    <img src="https://img.shields.io/badge/Deep%20Learning-Attention-red?style=flat-square" alt="Deep Learning">
+  </td>
+  <td>
+    <a href="https://cmte.ieee.org/futuredirections/tech-policy-ethics/july-2022/quantum-machine-learning-based-detection-of-fake-news-and-deep-fake-videos/" target="_blank">
+      <img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square" alt="IEEE Publication">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
+    </a>
+  </td>
+  <td>✔️</td>
+</tr>
 <tr>
   <td>01</td>
   <td>Customer Lifetime Value Prediction</td>
