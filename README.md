@@ -41,8 +41,7 @@
       </td>
       <td>
         <a href="https://www.mdpi.com/2227-7390/10/12/2001" target="_blank">
-          <img src="https://img.shields.io/badge/MDPI-Publication-blue?style=flat-square" alt="MDPI">
-        </a>
+          </a>
     </td>
       <td>
         <a href="https://hub.docker.com/your-docker-link" target="_blank">
@@ -64,31 +63,30 @@
   </td>
   <td>
     <a href="https://hub.docker.com/your-docker-link" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
-    </a>
+      </a>
   </td>
   <td>✔️</td>
 </tr>
 <tr>
- <td>03</td>
+  <td>03</td>
   <td>A Comprehensive Review on Summarizing Financial News Using Deep Learning</td>
   <td>
-    <img src="https://img.shields.io/badge/Computer%20Vision-CLIP-blue?style=flat-square" alt="Computer Vision">
     <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat-square" alt="NLP">
+    <img src="https://img.shields.io/badge/Embedding-Techniques-orange?style=flat-square" alt="Embedding Techniques">
+    <img src="https://img.shields.io/badge/Deep%20Learning-RNN%20%26%20LSTM-red?style=flat-square" alt="Deep Learning">
+    <img src="https://img.shields.io/badge/Sentiment-Analysis-blue?style=flat-square" alt="Sentiment Analysis">
   </td>
   <td>
-    <a href="https://arxiv.org/abs/2109.10118v1" target="_blank">
-      <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square" alt="arXiv Paper">
+    <a href="https://github.com/your-repo-link" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github&style=flat-square" alt="GitHub Repo">
     </a>
   </td>
   <td>
     <a href="https://hub.docker.com/your-docker-link" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
-    </a>
+      </a>
   </td>
   <td>✔️</td>
 </tr>
-   <tr>
   <td>01</td>
   <td>Customer Lifetime Value Prediction</td>
   <td>
