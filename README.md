@@ -54,8 +54,8 @@
   <td>02</td>
   <td>Quantum Machine Learning-based Detection of Fake News and Deep Fake Videos</td>
   <td>
-    <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat-square" alt="NLP">
-    <img src="https://img.shields.io/badge/Deep%20Learning-Attention-red?style=flat-square" alt="Deep Learning">
+    <img src="https://img.shields.io/badge/Quantum%20Machine%20Learning-QML-blue?style=flat-square" alt="Quantum Machine Learning">
+    <img src="https://img.shields.io/badge/Fake%20News-Detection-orange?style=flat-square" alt="Fake News Detection">
   </td>
   <td>
     <a href="https://cmte.ieee.org/futuredirections/tech-policy-ethics/july-2022/quantum-machine-learning-based-detection-of-fake-news-and-deep-fake-videos/" target="_blank">
