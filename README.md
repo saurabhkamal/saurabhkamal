@@ -5,8 +5,10 @@
 🏆 Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | E-commerce  
 💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing  
 
-https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif 
-![Profile Image]([https://via.placeholder.com/600x200](https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif))
+<div align="center">
+    <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" alt="Graphic" width="600">
+</div>
+
 
 
 <!--
