@@ -32,7 +32,7 @@
     </tr>
   </thead>
   <tbody>
-<tr>
+    <tr>
       <td>01</td>
       <td>Trading Stocks Based on Financial News Using Attention Mechanism</td>
       <td>
@@ -87,6 +87,7 @@
   </td>
   <td>✔️</td>
 </tr>
+<tr>
   <td>01</td>
   <td>Customer Lifetime Value Prediction</td>
   <td>
