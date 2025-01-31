@@ -5,7 +5,9 @@
 🏆 Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | E-commerce  
 💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing  
 
-![Profile Image](https://via.placeholder.com/600x200)
+https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif 
+![Profile Image]([https://via.placeholder.com/600x200](https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif))
+
 
 <!--
 **saurabhkamal/saurabhkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
