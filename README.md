@@ -46,8 +46,7 @@
       </td>
       <td>
         <a href="https://hub.docker.com/your-docker-link" target="_blank">
-          <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
-        </a>
+          </a>
       </td>
       <td>✔️</td>
     </tr>
