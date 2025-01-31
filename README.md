@@ -34,9 +34,9 @@
   <tbody>
     <tr>
       <td>01</td>
-      <td>US Visa Approval Prediction</td>
-      <td>Classification</td>
-      <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+      <td>Customer Lifetime Value Prediction</td>
+      <td>Regression</td>
+      <td><a href="https://github.com/saurabhkamal/clvproject" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
       <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
       <td><a href="https://youtube.com/your-video-link" target="_blank"><img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" alt="YouTube"></a></td>
     </tr>
