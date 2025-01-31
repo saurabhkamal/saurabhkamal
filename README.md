@@ -51,29 +51,53 @@
   <td>✔️</td>
 </tr>
     <tr>
-      <td>02</td>
-      <td>Customer Segmentation RFM Analysis</td>
-      <td>Clustering</td>
-      <td><a href="https://github.com/saurabhkamal/Customer-Segmentation-RFM-Analysis-And-KMeans-Clustering" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
-      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
-      <td>✔️</td>
-    </tr>
-     <tr>
-      <td>03</td>
-      <td>Customer Lifetime Value Exploratory Analysis</td>
-      <td>EDA</td>
-      <td><a href="https://github.com/saurabhkamal/Customer-Lifetime-Value-CLV" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
-      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
-      <td>✔️</td>
-    </tr>
+  <td>02</td>
+  <td>Customer Segmentation RFM Analysis</td>
+  <td>
+    <img src="https://img.shields.io/badge/Clustering-Unsupervised%20Learning-green?style=flat-square" alt="Clustering">
+  </td>
+  <td>
+    <a href="https://github.com/saurabhkamal/Customer-Segmentation-RFM-Analysis-And-KMeans-Clustering" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank"></a>
+  </td>
+  <td>✔️</td>
+</tr>
     <tr>
-      <td>04</td>
-      <td>Recommender System</td>
-      <td>Recommendation Engine / Machine Learning</td>
-      <td><a href="https://github.com/saurabhkamal/ML-Based-Book-Recommender-System" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
-      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
-      <td>✔️</td>
-    </tr>
+  <td>03</td>
+  <td>Customer Lifetime Value Exploratory Analysis</td>
+  <td>
+    <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=flat-square" alt="EDA">
+  </td>
+  <td>
+    <a href="https://github.com/saurabhkamal/Customer-Lifetime-Value-CLV" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank"></a>
+  </td>
+  <td>✔️</td>
+</tr>
+  <tr>
+  <td>04</td>
+  <td>Recommender System</td>
+  <td>
+    <img src="https://img.shields.io/badge/Recommendation%20Engine-Machine%20Learning-red?style=flat-square" alt="Recommendation Engine">
+  </td>
+  <td>
+    <a href="https://github.com/saurabhkamal/ML-Based-Book-Recommender-System" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank"></a>
+  </td>
+  <td>✔️</td>
+</tr>    
     <tr>
       <td>05</td>
       <td>Chest Disease Classification from CT Scan Images</td>
