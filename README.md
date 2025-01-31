@@ -43,10 +43,7 @@
         <a href="https://www.mdpi.com/2227-7390/10/12/2001" target="_blank">
           <img src="https://img.shields.io/badge/MDPI-Publication-blue?style=flat-square" alt="MDPI">
         </a>
-        <a href="https://github.com/your-repo-link" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
-        </a>
-      </td>
+    </td>
       <td>
         <a href="https://hub.docker.com/your-docker-link" target="_blank">
           <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub">
