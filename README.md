@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hey! Nice to see you.
+
+## I'm Saurabh 😄
+
+🏆 **Roles**: Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | Ecommerce  
+💻 **Skills**: Cloud Migration, Project Management, Software Engineering, Business Analysis  
+🌟 **Experience**: 20+ Years Exp | Visionary Enterprise Architect
 
 <!--
 **saurabhkamal/saurabhkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
