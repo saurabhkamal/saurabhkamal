@@ -70,6 +70,25 @@
   <td>✔️</td>
 </tr>
 <tr>
+ <td>03</td>
+  <td>A Comprehensive Review on Summarizing Financial News Using Deep Learning</td>
+  <td>
+    <img src="https://img.shields.io/badge/Computer%20Vision-CLIP-blue?style=flat-square" alt="Computer Vision">
+    <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat-square" alt="NLP">
+  </td>
+  <td>
+    <a href="https://arxiv.org/abs/2109.10118v1" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square" alt="arXiv Paper">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
+    </a>
+  </td>
+  <td>✔️</td>
+</tr>
+   <tr>
   <td>01</td>
   <td>Customer Lifetime Value Prediction</td>
   <td>
