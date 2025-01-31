@@ -146,9 +146,9 @@
   <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"></a></td>
   <td>✔️</td>
 </tr>
-<tr>
+    <tr>
       <td>11</td>
-      <td>A/B Testing on Marketing Campaigns</td>
+      <td>A/B Testing on Marketing Campaign</td>
       <td>
         <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
       </td>
@@ -163,7 +163,42 @@
       </td>
       <td>✔️</td>
     </tr>
-     !-- Add more projects as needed -->
+    <tr>
+      <td>12</td>
+      <td>A/B Testing on Push Notification Strategy</td>
+      <td>
+        <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
+      </td>
+      <td>
+        <a href="https://github.com/saurabhkamal/Statistics-Hypothesis-Testing-Projects/blob/main/A-B%20Testing%20on%20Push%20Notification%20Strategy/A-B%20Testing%20on%20Push%20Notification%20Strategy.ipynb" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+        </a>
+      </td>
+    <td>
+        <a href="https://colab.research.google.com/your-notebook-link" target="_blank">
+          </a>
+      </td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>A/B Testing for an Onboarding Flow Optimization project</td>
+      <td>
+        <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
+      </td>
+      <td>
+        <a href="https://github.com/saurabhkamal/Statistics-Hypothesis-Testing-Projects/blob/main/A/A-B%20test%20for%20an%20Onboarding%20Flow%20Optimization%20project/A-B%20test%20for%20an%20Onboarding%20Flow%20Optimization%20project.ipynb">
+          <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+        </a>
+      </td>
+    <td>
+        <a href="https://colab.research.google.com/your-notebook-link" target="_blank">
+          </a>
+      </td>
+      <td>✔️</td>
+    </tr>
+
+      !-- Add more projects as needed -->
   </tbody>
 </table>
 
