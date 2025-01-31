@@ -9,7 +9,14 @@
     <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" alt="Graphic" width="300">
 </div>
 
-
+## 👋 About Me ❤️
+- 🌱 I create impactful projects by leveraging data-driven strategies and innovative Data Science solutions to achieve business goals.
+- 📈 I analyze stagnant revenue growth and customer churn indicators, applying Data Science solutions to enhance profitability and drive sustainable growth.
+- ⚡ I love to learn new technologies. 
+- 📫 How to reach me: saurabh.kamal1@icloud.com
+- <a href="https://www.linkedin.com/in/saurabh-kamal/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="margin-right: 10px;">
+</a>
 
 <!--
 **saurabhkamal/saurabhkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
