@@ -75,7 +75,7 @@
     <tr>
       <td>06</td>
       <td>Name Entity Recognition</td>
-      <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-PyTorch-red?logo=pytorch" alt="PyTorch"></td>
+      <td><img src="https://img.shields.io/badge/Deep%20Learning%20NLP-PyTorch-red?logo=pytorch" alt="PyTorch"></td>
       <td><a href="https://github.com/saurabhkamal/Name-Entity-Recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
       <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
       <td>✔️</td>
