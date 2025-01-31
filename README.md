@@ -57,9 +57,9 @@
       <td>✔️</td>
     </tr>
       <tr>
-      <td>03</td>
-      <td>Chest Disease Classification from Chest CT Scan Images</td>
-      <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-TensorFlow-orange?logo=tensorflow" alt="TensorFlow"></td>
+      <td>04</td>
+      <td>Chest Disease Classification from CT Scan Images</td>
+      <td><img src="https://github.com/saurabhkamal/Chest-Disease-Classification" alt="TensorFlow"></td>
       <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
       <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
       <td>✔️</td>
