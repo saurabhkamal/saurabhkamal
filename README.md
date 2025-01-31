@@ -23,15 +23,33 @@
 <table>
   <thead>
     <tr>
-      <th>S No</th>
-      <th>Project Name</th>
+      <th>S.No</th>
+      <th>Project/Research Name</th>
       <th>Specifications</th>
-      <th>Repository</th>
+      <th>Repository/links</th>
       <th>Docker Hub</th>
       <th>End-to-End</th>
     </tr>
   </thead>
   <tbody>
+<tr>
+  <td>01</td>
+  <td>Trading Stocks Based on Financial News Using Attention Mechanism</td>
+  <td>
+    <img src="https://img.shields.io/badge/Regression-Analysis-blue?style=flat-square" alt="Regression">
+  </td>
+  <td>
+    <a href="https://www.mdpi.com/2227-7390/10/12/2001" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub">
+    </a>
+  </td>
+  <td>✔️</td>
+</tr>
     <tr>
   <td>01</td>
   <td>Customer Lifetime Value Prediction</td>
