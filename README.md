@@ -40,7 +40,7 @@
       <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
       <td>✔️</td>
     </tr>
-
+<tr>
       <td>02</td>
       <td>Customer Segmentation RFM Analysis</td>
       <td>Clustering</td>
