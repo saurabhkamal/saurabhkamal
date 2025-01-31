@@ -88,6 +88,14 @@
       <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"><img src="https://img.shields.io/badge/Live-Dashboard-green?logo=powerbi" alt="Live Dashboard"></a></td>
       <td>✔️</td>
     </tr>
+      <tr>
+  <td>08</td>
+  <td>Sales Performance Dashboard</td>
+  <td>Data Visualization / BI</td>
+  <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+  <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="40"></a></td>
+  <td>✔️</td>
+</tr>
     !-- Add more projects as needed -->
   </tbody>
 </table>
