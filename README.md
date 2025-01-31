@@ -45,7 +45,7 @@
       <td>Customer Segmentation RFM Analysis</td>
       <td>Clustering</td>
       <td><a href="https://github.com/saurabhkamal/Customer-Segmentation-RFM-Analysis-And-KMeans-Clustering" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
-      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
+      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
       <td>✔️</td>
     </tr>
      <tr>
