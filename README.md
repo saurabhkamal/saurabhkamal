@@ -88,7 +88,32 @@
   <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"></a></td>
   <td>✔️</td>
 </tr>
+ <tr>
+  <td>08</td>
+  <td>Business Intelligence Product Analysis</td>
+  <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
+  <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Product-Analysis" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+  <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"></a></td>
+  <td>✔️</td>
+</tr>
+ <tr>
+  <td>09</td>
+  <td>Business Intelligence Customer Churn</td>
+  <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
+  <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Customer-Churn" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+  <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"></a></td>
+  <td>✔️</td>
+</tr>
+ <tr>
+  <td>10</td>
+  <td>Business Intelligence Employee Attrition</td>
+  <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
+  <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Employee-Attrition" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+  <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"></a></td>
+  <td>✔️</td>
+</tr>
 
+      
     !-- Add more projects as needed -->
   </tbody>
 </table>
