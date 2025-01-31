@@ -18,17 +18,45 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
 
 
-<!--
-**saurabhkamal/saurabhkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Projects
 
-Here are some ideas to get you started:
+<table>
+  <thead>
+    <tr>
+      <th>S No</th>
+      <th>Project Name</th>
+      <th>Specifications</th>
+      <th>Repository</th>
+      <th>Docker Hub</th>
+      <th>End-to-End</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>US Visa Approval Prediction</td>
+      <td>Classification</td>
+      <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
+      <td><a href="https://youtube.com/your-video-link" target="_blank"><img src="https://img.shields.io/badge/YouTube-Video-red?logo=youtube" alt="YouTube"></a></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Chest Disease Classification from Chest CT Scan Images</td>
+      <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-TensorFlow-orange?logo=tensorflow" alt="TensorFlow"></td>
+      <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
+      <td>✔️</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Industry-Safety-Detection-using-YoloV7</td>
+      <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-PyTorch-red?logo=pytorch" alt="PyTorch"></td>
+      <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"><img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub"></a></td>
+      <td>✔️</td>
+    </tr>
+    <!-- Add more projects as needed -->
+  </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
