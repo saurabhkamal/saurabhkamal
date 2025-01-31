@@ -14,7 +14,7 @@
 - 📈 I analyze stagnant revenue growth and customer churn indicators, applying Data Science solutions to enhance profitability and drive sustainable growth.
 - ⚡ I love to learn new technologies. 
 - 📫 How to reach me: saurabh.kamal1@icloud.com
-- 🖱️My Profile - <a href="https://www.linkedin.com/in/saurabh-kamal/" target="_blank">
+- 🖱️My Profile<a href="https://www.linkedin.com/in/saurabh-kamal/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
 
 
