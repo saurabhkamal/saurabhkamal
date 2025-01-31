@@ -59,13 +59,13 @@
     <tr>
       <td>04</td>
       <td>Recommender System</td>
-      <td>EDA</td>
+      <td>Recommendation Engine / Machine Learning</td>
       <td><a href="https://github.com/saurabhkamal/ML-Based-Book-Recommender-System" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
       <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
       <td>✔️</td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>05</td>
       <td>Chest Disease Classification from CT Scan Images</td>
       <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-TensorFlow-orange?logo=tensorflow" alt="TensorFlow"></td>
       <td><a href="https://github.com/saurabhkamal/Chest-Disease-Classification" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -73,7 +73,7 @@
       <td>✔️</td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>06</td>
       <td>Industry-Safety-Detection-using-YoloV7</td>
       <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-PyTorch-red?logo=pytorch" alt="PyTorch"></td>
       <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
