@@ -214,8 +214,6 @@
       </td>
       <td>✔️</td>
     </tr>
-
-      !-- Add more projects as needed -->
   </tbody>
 </table>
 
