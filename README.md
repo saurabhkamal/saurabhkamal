@@ -80,7 +80,15 @@
       <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
       <td>✔️</td>
     </tr>
-    <!-- Add more projects as needed -->
+   <tr>
+      <td>07</td>
+      <td>Business Intelligence Online Sales Analytics</td>
+      <td>Business Insights</td>
+      <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Online-Store-Sales-Analytics" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+      <td><a href="https://app.powerbi.com/view?r=your-dashboard-link" target="_blank"><img src="https://img.shields.io/badge/Live-Dashboard-green?logo=powerbi" alt="Live Dashboard"></a></td>
+      <td>✔️</td>
+    </tr>
+    !-- Add more projects as needed -->
   </tbody>
 </table>
 
