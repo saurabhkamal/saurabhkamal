@@ -16,7 +16,7 @@
 - 📫 How to reach me: saurabh.kamal1@icloud.com
 - <a href="https://www.linkedin.com/in/saurabh-kamal/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
-</a>
+</a> https://www.linkedin.com/in/saurabh-kamal/
 
 <!--
 **saurabhkamal/saurabhkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
