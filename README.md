@@ -50,6 +50,14 @@
     </tr>
      <tr>
       <td>03</td>
+      <td>Customer Lifetime Value Exploratory Analysis</td>
+      <td>EDA</td>
+      <td><a href="https://github.com/saurabhkamal/Customer-Lifetime-Value-CLV" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
+      <td><a href="https://hub.docker.com/your-docker-link" target="_blank"></a></td>
+      <td>✔️</td>
+    </tr>
+      <tr>
+      <td>03</td>
       <td>Chest Disease Classification from Chest CT Scan Images</td>
       <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-TensorFlow-orange?logo=tensorflow" alt="TensorFlow"></td>
       <td><a href="https://github.com/your-repo-link" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
