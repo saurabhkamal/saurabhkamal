@@ -64,8 +64,7 @@
       </td>
       <td>
         <a href="https://hub.docker.com/your-docker-link" target="_blank">
-          <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
-        </a>
+          </a>
       </td>
       <td>✔️</td>
     </tr>
@@ -85,8 +84,7 @@
   </td>
   <td>
     <a href="https://hub.docker.com/your-docker-link" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker&style=flat-square" alt="Docker Hub">
-    </a>
+      </a>
   </td>
   <td>✔️</td>
 </tr>
@@ -109,7 +107,7 @@
   <td>✔️</td>
 </tr>
     <tr>
-  <td>02</td>
+  <td>04</td>
   <td>Customer Segmentation RFM Analysis</td>
   <td>
     <img src="https://img.shields.io/badge/Clustering-Unsupervised%20Learning-green?style=flat-square" alt="Clustering">
@@ -125,7 +123,7 @@
   <td>✔️</td>
 </tr>
     <tr>
-  <td>03</td>
+  <td>05</td>
   <td>Customer Lifetime Value Exploratory Analysis</td>
   <td>
     <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=flat-square" alt="EDA">
@@ -141,7 +139,7 @@
   <td>✔️</td>
 </tr>
   <tr>
-  <td>04</td>
+  <td>06</td>
   <td>Recommender System</td>
   <td>
     <img src="https://img.shields.io/badge/Recommendation%20Engine-Machine%20Learning-red?style=flat-square" alt="Recommendation Engine">
@@ -157,7 +155,7 @@
   <td>✔️</td>
 </tr>    
     <tr>
-      <td>05</td>
+      <td>07</td>
       <td>Chest Disease Classification from CT Scan Images</td>
       <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-TensorFlow-orange?logo=tensorflow" alt="TensorFlow"></td>
       <td><a href="https://github.com/saurabhkamal/Chest-Disease-Classification" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -165,7 +163,7 @@
       <td>✔️</td>
     </tr>
     <tr>
-      <td>06</td>
+      <td>08</td>
       <td>Name Entity Recognition</td>
       <td><img src="https://img.shields.io/badge/Deep%20Learning%20NLP-PyTorch-red?logo=pytorch" alt="PyTorch"></td>
       <td><a href="https://github.com/saurabhkamal/Name-Entity-Recognition" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -173,7 +171,7 @@
       <td>✔️</td>
     </tr>
  <tr>
-  <td>07</td>
+  <td>09</td>
   <td>Business Intelligence Online Sales Analytics</td>
   <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
   <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Online-Store-Sales-Analytics" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -181,7 +179,7 @@
   <td>✔️</td>
 </tr>
  <tr>
-  <td>08</td>
+  <td>10</td>
   <td>Business Intelligence Product Analysis</td>
   <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
   <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Product-Analysis" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -189,7 +187,7 @@
   <td>✔️</td>
 </tr>
  <tr>
-  <td>09</td>
+  <td>11</td>
   <td>Business Intelligence Customer Churn</td>
   <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
   <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Customer-Churn" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -197,7 +195,7 @@
   <td>✔️</td>
 </tr>
  <tr>
-  <td>10</td>
+  <td>12</td>
   <td>Business Intelligence Employee Attrition</td>
   <td><img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?logo=Power-BI&logoColor=white&style=flat-square" alt="Power BI"></td>
   <td><a href="https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Employee-Attrition" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
@@ -205,7 +203,7 @@
   <td>✔️</td>
 </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>A/B Testing on Marketing Campaign</td>
       <td>
         <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
@@ -222,7 +220,7 @@
       <td>✔️</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>A/B Testing on Push Notification Strategy</td>
       <td>
         <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
@@ -239,7 +237,7 @@
       <td>✔️</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>A/B Testing for an Onboarding Flow Optimization project</td>
       <td>
         <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
@@ -256,7 +254,7 @@
       <td>✔️</td>
     </tr>
 <tr>
-      <td>14</td>
+      <td>16</td>
       <td>Maximizing Revenue for Taxi Cab Drivers</td>
       <td>
         <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistical%20Testing-blueviolet?style=flat-square" alt="A/B Testing">
