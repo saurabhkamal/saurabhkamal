@@ -6,7 +6,7 @@
 💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing  
 
 <div align="center">
-    <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" alt="Graphic" width="600">
+    <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" alt="Graphic" width="400">
 </div>
 
 
