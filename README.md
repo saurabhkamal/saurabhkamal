@@ -157,6 +157,11 @@
           <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
         </a>
       </td>
+    <td>
+        <a href="https://colab.research.google.com/your-notebook-link" target="_blank">
+          <img src="https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab" alt="Colab Notebook">
+        </a>
+      </td>
       <td>✔️</td>
     </tr>
      !-- Add more projects as needed -->
