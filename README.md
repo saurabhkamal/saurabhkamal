@@ -2,9 +2,10 @@
 
 ## I'm Saurabh 😄
 
-🏆 **Roles**: Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | Ecommerce  
-💻 **Skills**: Cloud Migration, Project Management, Software Engineering, Business Analysis  
-🌟 **Experience**: 20+ Years Exp | Visionary Enterprise Architect
+🏆 Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | E-commerce  
+💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing  
+
+![Profile Image](https://via.placeholder.com/600x200)
 
 <!--
 **saurabhkamal/saurabhkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
