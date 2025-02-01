@@ -59,7 +59,7 @@
       </td>
       <td>
         <a href="https://cmte.ieee.org/futuredirections/tech-policy-ethics/july-2022/quantum-machine-learning-based-detection-of-fake-news-and-deep-fake-videos/" target="_blank">
-          <img src="https://img.shields.io/badge/IEEE-Future-Publication-blue?style=flat-square" alt="IEEE Publication">
+          <img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square" alt="IEEE Publication">
         </a>
       </td>
       <td>
