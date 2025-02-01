@@ -5,10 +5,6 @@
 🏆 Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | E-commerce  
 💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing  
 
-<div align="center">
-    <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" alt="Graphic" width="300">
-</div>
-
 ## 👋 About Me ❤️
 - 🌱 I create impactful projects by leveraging data-driven strategies and innovative Data Science solutions to achieve business goals.
 - 📈 I analyze stagnant revenue growth and customer churn indicators, applying Data Science solutions to enhance profitability and drive sustainable growth.
