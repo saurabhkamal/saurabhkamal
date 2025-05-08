@@ -89,7 +89,7 @@
   <td>04</td>
   <td>Customer Behavior Analysis for E-commerce with Kafka MongoDB and UI-Dashboard</td>
   <td>
-    <img src="https://img.shields.io/badge/Regression-Analysis-blue?style=flat-square" alt="Regression">
+    <img src="https://img.shields.io/badge/Regression-Analysis-blue?style=flat-square" alt="Kafka">
   </td>
   <td>
     <a href="https://github.com/saurabhkamal/Customer-Behavior-Analysis-for-E-commerce-with-Kafka-Spark-and-UI-Dashboard" target="_blank">
