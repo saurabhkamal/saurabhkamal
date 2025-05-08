@@ -90,6 +90,8 @@
   <td>Customer Behavior Analysis for E-commerce with Kafka MongoDB and UI-Dashboard</td>
   <td>
     <img src="https://img.shields.io/badge/Kafka-blue?style=flat-square" alt="Kafka">
+    <img src="https://img.shields.io/badge/MongoDB-blueviolet?style=flat-square" alt="MongoDB">
+    <img src="https://img.shields.io/badge/UI-Dashboard-orange?style=flat-square" alt="UIDashboard">
   </td>
   <td>
     <a href="https://github.com/saurabhkamal/Customer-Behavior-Analysis-for-E-commerce-with-Kafka-Spark-and-UI-Dashboard" target="_blank">
