@@ -23,6 +23,7 @@
       <th>Project/Research Name</th>
       <th>Specifications</th>
       <th>Repository/links</th>
+      <th>Docker Hub</th>
       <th>End-to-End</th>
     </tr>
   </thead>
