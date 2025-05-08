@@ -84,8 +84,29 @@
   </td>
   <td>✔️</td>
 </tr>
+
 <tr>
   <td>04</td>
+  <td>Customer Behavior Analysis for E-commerce with Kafka MongoDB and UI-Dashboard</td>
+  <td>
+    <img src="https://img.shields.io/badge/Regression-Analysis-blue?style=flat-square" alt="Regression">
+  </td>
+  <td>
+    <a href="https://github.com/saurabhkamal/Customer-Behavior-Analysis-for-E-commerce-with-Kafka-Spark-and-UI-Dashboard" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+    </a>
+  </td>
+  <td>
+    <a href="https://hub.docker.com/your-docker-link" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-Hub-green?logo=docker" alt="Docker Hub">
+    </a>
+  </td>
+  <td>✔️</td>
+</tr>
+
+
+<tr>
+  <td>05</td>
   <td>Customer Lifetime Value Prediction</td>
   <td>
     <img src="https://img.shields.io/badge/Regression-Analysis-blue?style=flat-square" alt="Regression">
@@ -103,7 +124,7 @@
   <td>✔️</td>
 </tr>
     <tr>
-  <td>05</td>
+  <td>06</td>
   <td>Customer Segmentation RFM Analysis</td>
   <td>
     <img src="https://img.shields.io/badge/Clustering-Unsupervised%20Learning-green?style=flat-square" alt="Clustering">
@@ -119,7 +140,7 @@
   <td>✔️</td>
 </tr>
     <tr>
-  <td>06</td>
+  <td>07</td>
   <td>Customer Lifetime Value Exploratory Analysis</td>
   <td>
     <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=flat-square" alt="EDA">
@@ -135,7 +156,7 @@
   <td>✔️</td>
 </tr>
   <tr>
-  <td>07</td>
+  <td>08</td>
   <td>Recommender System</td>
   <td>
     <img src="https://img.shields.io/badge/Recommendation%20Engine-Machine%20Learning-red?style=flat-square" alt="Recommendation Engine">
@@ -151,7 +172,7 @@
   <td>✔️</td>
 </tr>    
     <tr>
-      <td>08</td>
+      <td>09</td>
       <td>Chest Disease Classification from CT Scan Images</td>
       <td><img src="https://img.shields.io/badge/Deep%20Learning%20CNN-TensorFlow-orange?logo=tensorflow" alt="TensorFlow"></td>
       <td><a href="https://github.com/saurabhkamal/Chest-Disease-Classification" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo"></a></td>
