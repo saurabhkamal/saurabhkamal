@@ -311,7 +311,7 @@
   <img src="https://img.shields.io/badge/Marketing%20Analytics-00C853?style=for-the-badge" alt="Marketing Analytics">
   <img src="https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/ETL%20in%20Python-4CAF50?style=for-the-badge" alt="ETL Pipeline">
+  <img src="https://img.shields.io/badge/ETL%20Pipeline-4CAF50?style=for-the-badge" alt="ETL Pipeline">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
