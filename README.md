@@ -2,7 +2,7 @@
 
 ## I'm Saurabh 😄
 
-🏆 Data Scientist | Researcher | Business Intelligence | Consultant | Fintech | EdTech | E-commerce  
+🏆 Data Scientist | Researcher | Business Intelligence | Fintech | EdTech | E-commerce  
 💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing, Excellent Written and Verbal Communication Skills, Presentation Skills, Adaptable, Innovative, Time Management Skills, Problem Solving, Analytical, Project Management, Ability to Lead, Research.
 
 ## 👋 About Me ❤️
