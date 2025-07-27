@@ -6,7 +6,7 @@
 💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing, Excellent Written and Verbal Communication Skills, Presentation Skills, Adaptable, Innovative, Time Management Skills, Problem Solving, Analytical, Project Management, Ability to Lead, Research.
 
 ## 👋 About Me ❤️
-- 🌱 I create impactful projects by leveraging data-driven strategies and innovative Data Science solutions to achieve business goals.
+- 🌱 I create impactful products by leveraging data-driven strategies and innovative Data Science solutions to achieve business goals.
 - 📈 I analyze stagnant revenue growth and customer churn indicators, applying Data Science solutions to enhance profitability and drive sustainable growth.
 - ⚡ I love to learn new technologies. 
 - 📫 How to reach me: saurabh.kamal1@icloud.com
