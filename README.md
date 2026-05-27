@@ -2,13 +2,14 @@
 
 ## I'm Saurabh 😄
 
-🏆 Data Scientist | Researcher | Business Intelligence | Fintech | EdTech | E-commerce  
-💻 Applied Statistics, A/B Testing, Experimental Design, Business Analysis, Marketing Analytics, Product Development, Project Management, Machine Learning, Deep Learning, Natural Language Processing, Excellent Written and Verbal Communication Skills, Presentation Skills, Adaptable, Innovative, Time Management Skills, Problem Solving, Analytical, Project Management, Ability to Lead, Research.
+🏆 AI Engineer | Researcher | Generative AI | Agentic AI | Data Scientist |  
+💻 Multi-Agent System | RAG | Fine-Tuning | Applied Statistics, Experimental Design, Marketing Analytics, Product Development, Machine Learning, Deep Learning, Natural Language Processing, Excellent Written and Verbal Communication Skills, Presentation Skills, Adaptable, Innovative, Time Management Skills, Problem Solving, Analytical, Project Management, Ability to Lead, Research.
 
 ## 👋 About Me ❤️
-- 🌱 I create impactful products by leveraging data-driven strategies and innovative Data Science solutions to achieve business goals.
-- 📈 I analyze stagnant revenue growth and customer churn indicators, applying Data Science solutions to enhance profitability and drive sustainable growth.
-- ⚡ I love to learn new technologies. 
+- 🌱 Building next-generation AI products using Generative AI, Agentic AI, Machine Learning, and Data Science.
+- 🤖 I specialize in transforming customer behavior data into intelligent systems that improve retention, personalization, and revenue growth.
+- ⚡ Passionate about building production-grade AI workflows, LLM applications, and agentic systems that automate complex business operations.
+
 - 📫 How to reach me: saurabh.kamal1@icloud.com
 - 🖱️My Profile<a href="https://www.linkedin.com/in/saurabh-kamal/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
@@ -303,55 +304,55 @@
   <h2>💻 Tech Stack:</h2>
 <p>
   <!-- General Technologies -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Applied%20Statistics-FFC300?style=for-the-badge" alt="Applied Statistics">
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-blueviolet?style=for-the-badge" alt="A/B Testing">
-  <img src="https://img.shields.io/badge/Experimental%20Design-FF5733?style=for-the-badge" alt="Experimental Design">
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=for-the-badge" alt="EDA">
-  <img src="https://img.shields.io/badge/Marketing%20Analytics-00C853?style=for-the-badge" alt="Marketing Analytics">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/ETL%20Pipeline-4CAF50?style=for-the-badge" alt="ETL Pipeline">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-
-  <!-- Libraries and Frameworks -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
+  <img src="https://img.shields.io/badge/Applied%20Statistics-FFC300?style=for-the-badge" alt="GENERATIVE AI">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-blueviolet?style=for-the-badge" alt="AGENTIC AI">
+  <img src="https://img.shields.io/badge/Experimental%20Design-FF5733?style=for-the-badge" alt="MACHINE LEARNING">
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/Marketing%20Analytics-00C853?style=for-the-badge" alt="LLMs">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="PROMPT ENGINEERING">
+  <img src="https://img.shields.io/badge/ETL%20Pipeline-4CAF50?style=for-the-badge" alt="MULTI-AGENT SYSTEMS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="AI ORCHESTRATION">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LANGCHAIN">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LANGGRAPH">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LLAMAINDEX">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CREWAI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CLAUDE">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="HUGGING FACE">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="TRANSFORMERS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VLLMS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VECTOR DATABASES">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="PINECONE">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CHROMADB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="FAISS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="TENSORFLOW">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="SCIKIT-LEARN">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="MLOPS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LLMOPS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="DOCKER">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="KUBERNETES">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GITHUB ACTIONS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="FASTAPI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="STREAMLIT">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="POSTGRESQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="MONGODB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="REDIS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="PANDAS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="NUMPY">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="OOPS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VSCODE">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CURSOR AI">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CLINE">
   <img src="https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge" alt="Data Visualization">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge" alt="Seaborn">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" alt="PySpark">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
 
-  <!-- IDEs -->
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-
-  <!-- Cloud and Deployment -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-
-  <img src="https://img.shields.io/badge/MLOPS-000000?style=for-the-badge&logo=MLOPS&logoColor=white" alt="MLOPS">
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
- 
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-</p>
+  </p>
 
 </p>
 
