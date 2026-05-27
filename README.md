@@ -3,7 +3,7 @@
 ## I'm Saurabh 😄
 
 🏆 AI Engineer | Researcher | Generative AI | Agentic AI | Data Scientist |  
-💻 Multi-Agent System | RAG | Fine-Tuning | Applied Statistics, Experimental Design, Marketing Analytics, Product Development, Machine Learning, Deep Learning, Natural Language Processing, Excellent Written and Verbal Communication Skills, Presentation Skills, Adaptable, Innovative, Time Management Skills, Problem Solving, Analytical, Project Management, Ability to Lead, Research.
+💻 Multi-Agent System, RAG, Fine-Tuning, System Design, Applied Statistics, Experimental Design, Marketing Analytics, Product Development, Generative AI, Machine Learning, Deep Learning, Natural Language Processing, Excellent Written and Verbal Communication Skills, Presentation Skills, Adaptable, Innovative, Time Management Skills, Problem Solving, Analytical, Project Management, Ability to Lead, Research.
 
 ## 👋 About Me ❤️
 - 🌱 Building next-generation AI products using Generative AI, Agentic AI, Machine Learning, and Data Science.
