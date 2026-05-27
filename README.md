@@ -302,57 +302,131 @@
 </table>
 
   <h2>💻 Tech Stack:</h2>
+
+<!-- AI / Generative AI / Agentic AI -->
+<h3>🤖 AI / Generative AI / Agentic AI</h3>
+
 <p>
-  <!-- General Technologies -->
+  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge" alt="GENERATIVE AI">
+
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge" alt="AGENTIC AI">
+
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs">
+
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" alt="RAG">
+
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-34495E?style=for-the-badge" alt="PROMPT ENGINEERING">
+
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LANGCHAIN">
+
+  <img src="https://img.shields.io/badge/LangGraph-FF4F64?style=for-the-badge" alt="LANGGRAPH">
+
+  <img src="https://img.shields.io/badge/LlamaIndex-6C47FF?style=for-the-badge" alt="LLAMAINDEX">
+
+  <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge" alt="CREWAI">
+
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OPENAI">
+
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" alt="HUGGING FACE">
+
+  <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge" alt="TRANSFORMERS">
+
+  <img src="https://img.shields.io/badge/Vector%20Databases-16A085?style=for-the-badge" alt="VECTOR DATABASES">
+
+  <img src="https://img.shields.io/badge/Pinecone-2E8B57?style=for-the-badge" alt="PINECONE">
+
+  <img src="https://img.shields.io/badge/ChromaDB-7D3C98?style=for-the-badge" alt="CHROMADB">
+
+  <img src="https://img.shields.io/badge/FAISS-1F618D?style=for-the-badge" alt="FAISS">
+
+  <img src="https://img.shields.io/badge/LLMOps-2C3E50?style=for-the-badge" alt="LLMOPS">
+</p>
+
+<!-- Data Science / ML -->
+<h3>📊 Data Science / Machine Learning</h3>
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
-  <img src="https://img.shields.io/badge/Applied%20Statistics-FFC300?style=for-the-badge" alt="GENERATIVE AI">
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-blueviolet?style=for-the-badge" alt="AGENTIC AI">
-  <img src="https://img.shields.io/badge/Experimental%20Design-FF5733?style=for-the-badge" alt="MACHINE LEARNING">
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange?style=for-the-badge" alt="NLP">
-  <img src="https://img.shields.io/badge/Marketing%20Analytics-00C853?style=for-the-badge" alt="LLMs">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge" alt="RAG">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="PROMPT ENGINEERING">
-  <img src="https://img.shields.io/badge/ETL%20Pipeline-4CAF50?style=for-the-badge" alt="MULTI-AGENT SYSTEMS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="AI ORCHESTRATION">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LANGCHAIN">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LANGGRAPH">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LLAMAINDEX">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CREWAI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CLAUDE">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="HUGGING FACE">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="TRANSFORMERS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VLLMS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VECTOR DATABASES">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="PINECONE">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CHROMADB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="FAISS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="TENSORFLOW">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="SCIKIT-LEARN">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="MLOPS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="LLMOPS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="DOCKER">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="KUBERNETES">
+
+  <img src="https://img.shields.io/badge/Applied%20Statistics-FFC300?style=for-the-badge" alt="APPLIED STATISTICS">
+
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-8A2BE2?style=for-the-badge" alt="A/B TESTING">
+
+  <img src="https://img.shields.io/badge/Experimental%20Design-FF5733?style=for-the-badge" alt="EXPERIMENTAL DESIGN">
+
+  <img src="https://img.shields.io/badge/EDA-4B4B4B?style=for-the-badge" alt="EDA">
+
+  <img src="https://img.shields.io/badge/Marketing%20Analytics-00C853?style=for-the-badge" alt="MARKETING ANALYTICS">
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge" alt="MACHINE LEARNING">
+
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="DEEP LEARNING">
+
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TENSORFLOW">
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="SCIKIT LEARN">
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="PANDAS">
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NUMPY">
+</p>
+
+<!-- Data Engineering -->
+<h3>⚙️ Data Engineering / MLOps</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ETL%20Pipeline-4CAF50?style=for-the-badge" alt="ETL PIPELINE">
+
+  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge" alt="MLOPS">
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER">
+
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KUBERNETES">
+
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GITHUB ACTIONS">
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FASTAPI">
+
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="STREAMLIT">
+</p>
+
+<!-- Databases -->
+<h3>🗄️ Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL">
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB">
+
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="REDIS">
+</p>
+
+<!-- Cloud / Dev Tools -->
+<h3>☁️ Cloud / Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZURE">
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GITHUB ACTIONS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="FASTAPI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="STREAMLIT">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="POSTGRESQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="MONGODB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="REDIS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="PANDAS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="NUMPY">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="OOPS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="VSCODE">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CURSOR AI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CLINE">
-  <img src="https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge" alt="Seaborn">
-  
 
-  
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE">
 
-  </p>
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge" alt="CURSOR AI">
 
+  <img src="https://img.shields.io/badge/Cline-5C2D91?style=for-the-badge" alt="CLINE">
+</p>
+
+<!-- Visualization -->
+<h3>📈 Visualization</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge" alt="DATA VISUALIZATION">
+
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="MATPLOTLIB">
+
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge" alt="SEABORN">
+</p>
 </p>
 
