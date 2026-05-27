@@ -304,7 +304,6 @@
   <h2>💻 Tech Stack:</h2>
 
 <!-- AI / Generative AI / Agentic AI -->
-<h3>🤖 AI / Generative AI / Agentic AI</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge" alt="GENERATIVE AI">
@@ -343,7 +342,7 @@
 </p>
 
 <!-- Data Science / ML -->
-<h3>📊 Data Science / Machine Learning</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
@@ -372,7 +371,7 @@
 </p>
 
 <!-- Data Engineering -->
-<h3>⚙️ Data Engineering / MLOps</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/ETL%20Pipeline-4CAF50?style=for-the-badge" alt="ETL PIPELINE">
@@ -391,7 +390,7 @@
 </p>
 
 <!-- Databases -->
-<h3>🗄️ Databases</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL">
@@ -402,7 +401,7 @@
 </p>
 
 <!-- Cloud / Dev Tools -->
-<h3>☁️ Cloud / Tools</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
@@ -419,7 +418,7 @@
 </p>
 
 <!-- Visualization -->
-<h3>📈 Visualization</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge" alt="DATA VISUALIZATION">
